@@ -1,0 +1,18 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1523726533791' stop='1523726533816'>
+    <name>returns luke</name>
+    <title>returns luke</title>
+    <test-cases>
+        <test-case start='1523726533792' status='passed' stop='1523726533798'>
+            <name>returns luke</name>
+            <title>returns luke</title>
+            <labels/>
+            <parameters>
+                <parameter kind='environment-variable' name='capabilities' value='{"maxInstances":1,"browserName":"chrome","chromeOptions":{"args":["disable-default-apps","disable-extensions","disable-infobars"],"prefs":{"credentials_enable_service":false,"profile":{"password_manager_enabled":false},"download":{"prompt_for_download":false,"default_directory":"C:\\automation\\mocha-api\\mocha-starwars-apitests\\downloads"}}}}'/>
+                <parameter kind='environment-variable' name='spec files' value='["C:\\automation\\mocha-api\\mocha-starwars-apitests\\specs\\test.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

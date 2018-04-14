@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="returns_luke" timestamp="2018-04-14T20:23:32" time="0.021" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="a1218e87beff6b9c6a324ec592521de3"/>
+      <property name="suiteName" value="returns luke"/>
+      <property name="capabilities" value="chrome"/>
+      <property name="file" value=".\specs\test.js"/>
+    </properties>
+    <testcase classname="chrome.returns_luke" name="returns_luke" time="0.005">
+      <system-out>
+        <![CDATA[
+COMMAND: DELETE http://127.0.0.1:4444/wd/hub/session/177dd8eb-abc4-4970-ae0b-d0fcf404e8a5 - {}
+RESULT: {"state":"success","sessionId":"177dd8eb-abc4-4970-ae0b-d0fcf404e8a5","hCode":2003554238,"value":null,"class":"org.openqa.selenium.remote.Response","status":0}
+]]>
+      </system-out>
+    </testcase>
+  </testsuite>
+</testsuites>
